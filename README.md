@@ -1,4 +1,4 @@
-# Data cleansing and data visualization data engineering
+# Data cleansing and data visualization
 ### Link Google Looker Project
 - Praktikum Data Engineering : https://lookerstudio.google.com/reporting/93c4e496-ac30-4f16-88eb-c9fecb157622
 - Teori Data Engineering : https://lookerstudio.google.com/u/0/reporting/b776ebdc-7e9b-4e5e-b5e3-e94733aa1223/page/oDhQD
